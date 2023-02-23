@@ -1,1 +1,2 @@
-# clash-ruless
+# clash-rules
+clash规则
